@@ -28,8 +28,8 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 
 Here are some of the projects I'm proud of:
 
-1. [Credit Card Fraud Detection ](https://github.com/Devanshi1206/CodeClauseInternship_CreditCardFraudDetection)
-   - [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_internship-codeclause-datascienceintern-activity-7111053898479546368-jjAB?utm_source=share&utm_medium=member_desktop)
+1. [Titanic Survivors Prediction](https://github.com/Devanshi1206/Project--Titanic_Survivor_Prediction)
+   - [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_internship-bharatintern-datascienceintern-activity-7114632007631941632-HiP3?utm_source=share&utm_medium=member_desktop)
 
 2. [Movie Recommendation System - NLP](https://github.com/Devanshi1206/CodeClauseInternship_MovieRecommendationSystem)
    - [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_internship-codeclause-datascienceintern-activity-7112135747868012544-Yl57?utm_source=share&utm_medium=member_desktop)
