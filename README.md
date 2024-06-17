@@ -1,4 +1,4 @@
-# Hello, I'm Devanshi Nigam 👋
+<h1 align="center">Hello, I'm Devanshi Nigam 👋</h1>
 
 I'm a passionate data science aspirant with a strong interest in using data to solve real-world problems. Welcome to my GitHub profile! Here you'll find a collection of my projects and more related to data science.
 
