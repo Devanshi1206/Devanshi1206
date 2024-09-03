@@ -21,7 +21,7 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 - **Machine Learning:** Scikit-Learn, TensorFlow
 - **Data Visualization:** Matplotlib, Seaborn, Plotly
 - **Database:** MySQL, Postgres SQL
-- **Tools:** Jupyter Notebook, Google Colab, KAggle
+- **Tools:** Jupyter Notebook, Google Colab, Kaggle
 - **Software Tools:**  PowerBI, Microsoft Excel, PowerPoint
 
 ## 📊 Projects
