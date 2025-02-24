@@ -4,7 +4,7 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 
 ## 🔍 About Me
 
-- 🎓 I'm currently pursuing a B.Tech in Computer Science with a specialization in Data Science at JSS Academy of Technical Education, Noida.
+- 🎓 I'm currently pursuing a B.Tech in Computer Science (Data Science) at JSS Academy of Technical Education, Noida.
 - 💼 I'm looking for opportunities in the field of data science and machine learning.
 - 🌱 I'm constantly learning and improving my skills in data analysis and machine learning.
 - 📊 My interests include data visualization, predictive modelling, and natural language processing.
