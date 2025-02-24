@@ -17,9 +17,9 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 ## 💡 My Skills
 
 - **Programming Languages:** Python, R, C, SQL
-- **Data Analysis & ML Tools:** Pandas, NumPy, Scikit-learn, BeautifulSoup, OpenCV
+- **Data Analysis & ML Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, BeautifulSoup, OpenCV
 - **Database:** ANSI SQL, MySQL, Postgres SQL
-- **Visualization & Reporting:** Seaborn, Matplotlib, Power BI, MS Excel, Power Query, Power Point
+- **Visualization & Reporting:** Power BI, MS Excel, Power Query, Power Point
 - **Tools:** Jupyter Notebook, Google Colab, Kaggle
 
 ## 📊 Projects
