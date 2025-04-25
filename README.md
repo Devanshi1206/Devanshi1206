@@ -26,15 +26,16 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 
 Here are some of the projects I'm proud of:
 
-1. [Titanic Survivors Prediction](https://github.com/Devanshi1206/Project--Titanic_Survivor_Prediction)
-   - [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_internship-bharatintern-datascienceintern-activity-7114632007631941632-HiP3?utm_source=share&utm_medium=member_desktop)
+1. [Data Extraction and Sentiment Analysis]([https://github.com/Devanshi1206/Project--Titanic_Survivor_Prediction](https://github.com/Devanshi1206/Data-Extraction-and-Sentiment-Analysis))
 
-2. [Movie Recommendation System - NLP](https://github.com/Devanshi1206/CodeClauseInternship_MovieRecommendationSystem)
-   - [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_internship-codeclause-datascienceintern-activity-7112135747868012544-Yl57?utm_source=share&utm_medium=member_desktop)
+     
+2. [Product Sales Dashboard]([https://github.com/Devanshi1206/CodeClauseInternship_MovieRecommendationSystem](https://github.com/Devanshi1206/Product-Sales-Dashboard))
 
-3. [IMDb-Top-250-Movies - Web Scrapping](https://github.com/Devanshi1206/Project--IMDb-Top-250-Movies)
-   - [LinkedIn Post](https://www.linkedin.com/posts/devanshi-nigam_datascience-dataanalytics-webscraping-activity-7100423865658437633-te-J?utm_source=share&utm_medium=member_desktop)
 
+3. [SuperStore Sales Prediction and Dashboard]([https://github.com/Devanshi1206/Project--IMDb-Top-250-Movies](https://github.com/Devanshi1206/superstore_data_analysis))
+
+
+     
 ## 📫 Let's Connect
 
 - [LinkedIn](www.linkedin.com/in/devanshi-nigam/)
