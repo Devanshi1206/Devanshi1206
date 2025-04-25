@@ -26,13 +26,13 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 
 Here are some of the projects I'm proud of:
 
-1. [Data Extraction and Sentiment Analysis]([https://github.com/Devanshi1206/Project--Titanic_Survivor_Prediction](https://github.com/Devanshi1206/Data-Extraction-and-Sentiment-Analysis))
+1. [Data Extraction and Sentiment Analysis](https://github.com/Devanshi1206/Data-Extraction-and-Sentiment-Analysis)
 
      
-2. [Product Sales Dashboard]([https://github.com/Devanshi1206/CodeClauseInternship_MovieRecommendationSystem](https://github.com/Devanshi1206/Product-Sales-Dashboard))
+2. [Product Sales Dashboard](https://github.com/Devanshi1206/Product-Sales-Dashboard)
 
 
-3. [SuperStore Sales Prediction and Dashboard]([https://github.com/Devanshi1206/Project--IMDb-Top-250-Movies](https://github.com/Devanshi1206/superstore_data_analysis))
+3. [SuperStore Sales Prediction and Dashboard](https://github.com/Devanshi1206/superstore_data_analysis)
 
 
      
