@@ -4,7 +4,8 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 
 ## 🔍 About Me
 
-- 🎓 I'm currently pursuing a B.Tech in Computer Science (Data Science) at JSS Academy of Technical Education, Noida.
+- 🎓 I'm currently pursuing a MS in Data Science and Management from IIT & IIM, Indore.
+- 🎓 I have completed B.Tech in Computer Science (Data Science) from JSS Academy of Technical Education, Noida.
 - 💼 I'm looking for opportunities in the field of data science and machine learning.
 - 🌱 I'm constantly learning and improving my skills in data analysis and machine learning.
 - 📊 My interests include data visualization, predictive modelling, and natural language processing.
@@ -19,8 +20,8 @@ I'm a passionate data science aspirant with a strong interest in using data to s
 - **Programming Languages:** Python, R, C, SQL
 - **Data Analysis & ML Tools:** Pandas, NumPy, Matplotlib, Scikit-learn, BeautifulSoup, OpenCV
 - **Database:** ANSI SQL, MySQL, Postgres SQL
-- **Visualization & Reporting:** Power BI, MS Excel, Power Query, Power Point
-- **Tools:** Jupyter Notebook, Google Colab, Kaggle
+- **Visualization & Reporting:** Power BI, MS Excel, Power Query, PowerPoint
+- **Tools:** Jupyter Notebook, Google Colab, Kaggle, VS Code
 
 ## 📊 Projects
 
